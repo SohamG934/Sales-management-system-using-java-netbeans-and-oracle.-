@@ -22,6 +22,7 @@ for more informaton aboout CRM https://en.wikipedia.org/wiki/Customer_relationsh
 
 - [@SohamG934](https://github.com/SohamG934)
 - [@YashPimple](https://github.com/YashPimple)
+- [@RohitPimpale](https://github.com/Titanpimpale)
 
 ## Contributing
 
@@ -47,7 +48,11 @@ A sales management system, also referred to as sales management software or sale
 - Managing the process
 - Managing the numbers
 - Create a step-by-step sales process
-
+- login facility 
+- admin login
+- seller login
+- stock inventory updation
+- supplier management 
 
 
 ## Feedback
@@ -99,14 +104,17 @@ connecting frontend and backend :A code connects frontend and backend
 11. Sales reports
 
 
-## Screenshots
+## Output
 
-![App Screenshot]![ui_damage](https://user-images.githubusercontent.com/109168200/195986062-78183919-9b87-4172-8eaa-0a8196a81f39.png)
-![ui_purchase](https://user-images.githubusercontent.com/109168200/195986109-a608a725-69a4-4677-b23a-048ef9c07667.png)
-![ui_main](https://user-images.githubusercontent.com/109168200/195986129-78ba3d9c-ed24-45a5-a5b1-dcd1d29ada21.png)
-![ui_sale](https://user-images.githubusercontent.com/109168200/195986153-0fc0705a-966c-4801-b1cb-87cfd2d11040.png)
-![ui_view_report](https://user-images.githubusercontent.com/109168200/195986167-a763e3ee-b0ed-483c-b57f-d0a86f8c5507.png)
-![ui_view_stock_and_product_setup](https://user-images.githubusercontent.com/109168200/195986198-9eb67621-a5ca-485f-a78c-b856dcb0e222.png)
+![Screenshot 2022-11-04 114212](https://user-images.githubusercontent.com/100023166/199906339-c036d289-16ad-40b6-bd27-b94ae32dba23.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/100023166/199904654-93dbbe3d-f6f1-49d0-a30b-9d8c702c194c.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/100023166/199905176-4b60e4c3-d97c-4670-9739-8f07bc3a33d9.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/100023166/199905272-6bee7420-98c6-4da3-8d7c-6026a492c0ac.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/100023166/199905519-7b1db395-298a-4b69-bb45-24c3e4b82e7e.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/100023166/199905596-e504bca3-3ee5-4c25-9c24-b2aa442af042.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/100023166/199905663-95942071-466b-4b31-9cf4-13666b29115d.png)
+
+![Screenshot (16)](https://user-images.githubusercontent.com/100023166/199905714-d822eede-8953-495d-bd6b-721a0229494c.png)
 
 ## Support
 
